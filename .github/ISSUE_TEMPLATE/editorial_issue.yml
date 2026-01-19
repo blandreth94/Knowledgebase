@@ -1,8 +1,7 @@
 name: Knowledgebase Typographical Issue
-about: Report an issue with the spelling, grammar, or other typography of the knowledgebase
+description: Report an issue with the spelling, grammar, or other typography of the knowledgebase
 title: "editorial: "
 labels: editorial-issue
-assignees: ""
 
 body:
   - type: markdown

@@ -1,8 +1,7 @@
 name: Topic/Article Request
-about: Suggest an idea for a new knowledgebase topic or article
-title: ""
+description: Suggest an idea for a new knowledgebase topic or article
+title: "feat: "
 labels: enhancement
-assignees: ""
 body:
   - type: dropdown
     id: program

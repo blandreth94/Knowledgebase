@@ -1,8 +1,7 @@
 name: Knowledgebase Content Issue
-about: Report an issue with the content of the knowledgebase
+description: Report an issue with the content of the knowledgebase
 title: "content: "
 labels: content-issue
-assignees: ""
 
 body:
   - type: markdown
