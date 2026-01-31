@@ -10,6 +10,7 @@ body:
       options:
         - FTC
         - FRC
+        - Both
     validations: 
       required: true
   - type: textarea
