@@ -9,14 +9,13 @@ The goal of this Knowledgebase is to provide relatively 'evergreen' documentatio
 Current scope:
 - FRC
 	- Audio/Visual (A/V) setup instructions
+- FTC
+	- Audio/Visual (A/V) setup instructions
+	- Selected Scoring system setup instructions (small articles)
 
 Desired future additions:
 - FRC
 	- Pit power setup instructions
-- FTC
-	- Audio/Visual (A/V) setup instructions
-	- Scoring system setup instructions
-	- Field display Raspberry Pi setup instructions
 
 # Contributing
 Required software: [Obsidian](https://obsidian.md) and [Node.JS](https://nodejs.org) v20 or higher.
