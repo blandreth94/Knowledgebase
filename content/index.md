@@ -14,7 +14,11 @@ Select the program whose knowledgebase you would like to see:
 ****
 
 
-> [!summary] Knowledgebase version 26.2.0
-> Changes from v26.1.0:
-> - Added a setup guide for FTC referee tablet setup.
+> [!summary] Knowledgebase version 26.3.0
+> Changes from v26.2.0:
+> - Added a [[FTC/FTC-AV/Video Operator's Guide|Video Operator's Guide]] for FTC (will be updated for FRC soon).
+> - Added clarifications on FTC dual-division event setup for audio.
+> - Backported FRC-relevant changes from FTC A/V notes.
+> - Added an [[SDI Cable Repair Guide]].
+> - Added a [[Pit Stick Guide]] on the usage and troubleshooting of FRC Pit Display stick PCs.
 
